@@ -20,6 +20,9 @@
     background-color: rebeccapurple;
     color:white;
 }
+.navbar-toggler-icon{
+    background-color: rebeccapurple;
+}
 .nav-link:hover{
     color: gold !important;
 }
